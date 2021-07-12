@@ -1,0 +1,10 @@
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\bin\Debug\FCFS OS Project.exe.config
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\bin\Debug\FCFS OS Project.exe
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\bin\Debug\FCFS OS Project.pdb
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\obj\Debug\FCFS OS Project.csprojAssemblyReference.cache
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\obj\Debug\FCFS_OS_Project.Form1.resources
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\obj\Debug\FCFS_OS_Project.Properties.Resources.resources
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\obj\Debug\FCFS OS Project.csproj.GenerateResource.cache
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\obj\Debug\FCFS OS Project.csproj.CoreCompileInputs.cache
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\obj\Debug\FCFS OS Project.exe
+C:\Users\STW\Desktop\FCFS OS Project\FCFS OS Project\obj\Debug\FCFS OS Project.pdb
